@@ -1,7 +1,11 @@
-.div{
+div{
     background-color: tomato;
-    border: solid gray;
-    box-shadow: 10px 10px 10px cornflowerblue;
-
-
+    /* border: solid gray; */
+    /* box-shadow: 10px 10px 10px cornflowerblue; */
+    margin-bottom: 10px ;
+    box-shadow: 10px 10px 10px 10px cornflowerblue ;
+}
+li{
+    background-color: black;
+    color: aquamarine;
 }
