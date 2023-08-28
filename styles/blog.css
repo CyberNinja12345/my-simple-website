@@ -9,3 +9,7 @@ li{
     background-color: black;
     color: aquamarine;
 }
+.img{
+    height: 200px;
+    background-size: 10px;
+}
